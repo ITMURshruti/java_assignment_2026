@@ -1,0 +1,14 @@
+# Compiled Java class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# VS Code workspace files
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
